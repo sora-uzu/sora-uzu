@@ -5,3 +5,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sora-uzu&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+Applications I have developed↓</br>
+https://github.com/sora-uzu?tab=stars
