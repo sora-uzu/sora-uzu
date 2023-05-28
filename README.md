@@ -5,7 +5,7 @@
   　Twitter: https://twitter.com/sora_uzu </br>
   　LinkedIn: https://www.linkedin.com/in/sora-terui/
 - 👇 Applications I have developed </br>
-    https://github.com/sora-uzu?tab=stars
+    [https://github.com/sora-uzu?tab=stars](https://github.com/stars/sora-uzu/lists/my-stack)
 <p align="left">
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sora-uzu&count_private=true&show_icons=true&show_icons=true&theme=transparent" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sora-uzu&layout=compact&count_private=true&show_icons=true&theme=transparent" />
