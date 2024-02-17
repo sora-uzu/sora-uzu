@@ -1,6 +1,6 @@
-- 🐱 I’m Sora Terui. I'm a backend engineer at dip Corporation.
+- 🐱 I’m Sora Terui. I'm a software engineer at dip Corporation.
 - ✨ My top skills </br>
-　 LaravelPHP • Flutter • Next.js • REST API • SQL
+　 LaravelPHP • Flutter • React • REST API • SQL
 - 📨 How to reach me. </br>
   　Twitter: https://twitter.com/sora_uzu </br>
   　LinkedIn: https://www.linkedin.com/in/sora-terui/
