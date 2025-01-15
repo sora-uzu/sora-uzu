@@ -1,4 +1,4 @@
-- 🐱 I’m Sora Terui. I'm a software engineer at dip Corporation.
+- 🐱 I’m Sora Terui. I'm a software engineer.
 - ✨ My top skills </br>
 　 LaravelPHP • Flutter • React • REST API • SQL
 - 📨 How to reach me. </br>
