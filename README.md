@@ -18,7 +18,7 @@
 ---
 
 ### ✨ Focus
-- **Laravel (PHP)** / **React** / **Flutter**
+- **Laravel (PHP)** / **React (TS)** / **Flutter**
 - REST API • SQL • AWS / Terraform • CI/CD
 - AWS Certified Solutions Architect – Professional
 
