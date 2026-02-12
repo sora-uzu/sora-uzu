@@ -22,9 +22,6 @@
 - REST API • SQL • AWS / Terraform • CI/CD
 - AWS Certified Solutions Architect – Professional
 
-### 👇 My Stack
-➡️ https://github.com/stars/sora-uzu/lists/my-stack
-
 ---
 
 <!-- ====== GitHub Cards (Stable) ====== -->
